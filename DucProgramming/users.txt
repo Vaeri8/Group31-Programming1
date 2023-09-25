@@ -1,0 +1,2 @@
+Type,username,password,assignedPort(for PortManager)
+ADMIN,admin,root

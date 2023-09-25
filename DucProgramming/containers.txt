@@ -1,0 +1,7 @@
+IdOrder=4
+ID,weight,type
+c-1,100.0,open top
+c-0,100.0,dry storage
+c-3,100.0,liquid
+c-2,100.0,open side
+c-4,100.0,refrigerated

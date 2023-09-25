@@ -1,0 +1,7 @@
+IdOrder=5
+ID,vehicleId,departureTime,arrivalTime,departurePortId,arrivalPortId,status
+0,sh-0,2023-09-25 11:08:44,2023-09-25 11:08:44,p-0,p-4,arriving
+1,sh-0,2023-09-25 11:08:44,2023-09-25 11:08:44,p-4,p-2,arriving
+2,sh-0,2023-09-25 11:08:44,2023-09-25 11:08:44,p-2,p-0,arriving
+3,sh-0,2023-09-25 11:08:44,2023-09-25 11:08:44,p-0,p-1,arriving
+4,sh-0,2023-09-25 11:08:44,2023-09-25 11:08:44,p-1,p-3,arriving

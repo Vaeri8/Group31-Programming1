@@ -1,0 +1,7 @@
+IdOrder=5
+Type,id,name,currentFuel,fuelCapacity,carryingCapacity,loadedContainers
+Tanker,tr-3,tankerTruck,1.23456789E8,1.23456789E8,1.23456789E8,p-3,
+Reefer,tr-4,reeferTruck,1.23456789E8,1.23456789E8,1.23456789E8,p-4,
+Basic,tr-2,basicTruck,1.23456789E8,1.23456789E8,1.23456789E8,p-2,
+Ship,sh-1,ship2,1.23456789E8,1.23456789E8,1.23456789E8,p-1,
+Ship,sh-0,ship1,1.2279842088823242E8,1.23456789E8,1.23456789E8,p-3,
